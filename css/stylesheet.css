@@ -1,0 +1,42 @@
+.section{
+    background-color: #9558f7aa;
+    
+}
+.bg-img{
+    background-color: #9558f7aa;
+    
+    height: 200px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.set-size{
+    width: 100%;
+    height: 500px;
+}
+
+.bi{
+    padding: 15px;
+    background-color: blueviolet;
+    color: aliceblue;
+    border-radius: 50px;
+    display: inline-block;
+    width: 30%;
+}
+.bi2{
+    color: #9558f7aa;
+    
+}
+.bi3{
+    color: black;
+    padding: 10px;
+    background-color: rgba(128, 128, 128, 0.568);
+    border-radius: 50px;
+}
+.part3{
+    color: white;
+}
+.pcart{
+    color: tomato;
+}
